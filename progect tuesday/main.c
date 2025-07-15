@@ -4,5 +4,7 @@
 int main()
 {
     printf("Hello university!\n");
+    printf("hello world");
+    
     return 0;
 }
